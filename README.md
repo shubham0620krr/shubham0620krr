@@ -24,7 +24,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
-  <img src="https://github.com/tjklint/tjklint.github.io/blob/main/src/assets/portfoliodemo.gif" alt="Portfolio Demo">
+  <img src="https://github.com/shubhamkumar/blob/main/src/assets/portfoliodemo.gif" alt="Portfolio Demo">
 </div>
 
 <h3 align="center">
